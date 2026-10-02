@@ -1,0 +1,6 @@
+{
+  "name": "Apex AI",
+  "description": "Advanced personal AI assistant with multi-mode reasoning, autonomous project decomposition, memory management, and device tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
